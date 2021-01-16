@@ -1,5 +1,5 @@
 # Logic-satisfiability
- of logic formula written in ONP (Reverse Polish Notation)
+Satisfiability of logic formula written in ONP (Reverse Polish Notation)
 More about satisfiability [here](https://en.wikipedia.org/wiki/Method_of_analytic_tableaux)
 <br>
 More about the Metoda tablic semantycznych (Semantic tableaux method) used in this example is available [here (in Polish)](http://www.cs.put.poznan.pl/jjozefowska/wyklady/lo/W4_MTS__handouts.pdf)
